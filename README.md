@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ruthvik-1411
-- 👀 I’m interested in robotics,Iot and space exploration.
+- 👀 Just a student interested in robotics,Iot and space exploration.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  mail: nagasairuthvik1919@gmail.com, mobile - +919908257689
