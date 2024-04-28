@@ -1,11 +1,11 @@
-- 👋 Hi, I’m Ruthvik
-- 👀 I am a Robotics enthusiast and interested in IoT and Space Exploration. I am a hobbyist and currently working on some minor projects.
+- Hi, I’m Ruthvik
+- I am a Robotics enthusiast and interested in IoT and Space Exploration. I am a hobbyist and currently working on some minor projects
+- I occasionally work on projects related to Iot, Robotics and Embedded systems
+- I also work on building some useful apps for my personal use
+- Did my Bachelors at NIT Calicut in Electrical and Electronics
+- Working as a Machine Learning Engineer at Quantiphi Analytics
 
-<!---
-Ruthvik-1411/Ruthvik-1411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-### Connect with me:
+#### Connect with me:
 <a target="_blank" href="mailto:nagasairuthvik1919@gmail.com">
   <img align="left" alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 </br>
 
-### Languages and Tools:
+#### Languages and Tools:
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
