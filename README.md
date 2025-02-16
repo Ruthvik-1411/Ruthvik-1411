@@ -1,9 +1,9 @@
 - Hi, I’m Ruthvik
-- I am a Robotics enthusiast and interested in IoT and Space Exploration. I am a hobbyist and currently working on some minor projects
-- I occasionally work on projects related to Iot, Robotics and Embedded systems
-- I also work on building some useful apps for my personal use
-- Did my Bachelors at NIT Calicut in Electrical and Electronics
-- Working as a Machine Learning Engineer at Quantiphi Analytics
+- I am a hobbyist and I'm interested in Robotics, IoT and ML. I like working on electronics and tinkering things, currently working on personal projects.
+- I also occasionally work on projects related to Iot, Robotics and Embedded systems.
+- I also work on building some useful apps for my personal use.
+- Did my Bachelors at NIT Calicut in Electrical and Electronics.
+- Working as a Machine Learning Engineer at Quantiphi Analytics.
 
 #### Connect with me:
 <a target="_blank" href="mailto:nagasairuthvik1919@gmail.com">
