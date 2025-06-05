@@ -1,11 +1,13 @@
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fruthvik-1411&label=Visits&labelColor=%23112240&countColor=%2364FFDA)
+
 ### 👋 Hi, I’m Ruthvik
-I'm a hobbyist and tech enthusiast with a deep interest in Robotics, IoT, and Machine Learning. I enjoy building things from scratch—whether it's tinkering with electronics, prototyping embedded systems, or experimenting with new ideas.
+I'm a hobbyist and tech enthusiast with a deep interest in Robotics, IoT, and Machine Learning. I enjoy building things from scratch — whether it's tinkering with electronics, prototyping embedded systems, or experimenting with new ideas.
 ### 🔧 What I Do
-- Professionally, I'm a Machine Learning Engineer at Quantiphi Analytics, where I work on applying AI to real-world challenges.
-- I occasionally develop utility apps to solve everyday problems or automate tasks for personal use.
-- I also tinker with electronics to build some interesting stuff.
+- I work as a Machine Learning Engineer at Quantiphi, applying AI to solve real-world problems.
+- Occasionally, I develop utility apps to automate tasks or solve everyday challenges.
+- I also enjoy exploring electronics and building interesting side projects.
 ### 🎓 Background
-- Did my B.Tech in Electrical and Electronics Engineering from NIT Calicut.
+- I hold a B.Tech in Electrical and Electronics Engineering from NIT Calicut.
 
 #### Connect with me:
 <a href="mailto:nagasairuthvik1919@gmail.com" target="_blank">
@@ -16,6 +18,9 @@ I'm a hobbyist and tech enthusiast with a deep interest in Robotics, IoT, and Ma
 </a>
 <a href="https://youtube.com/@sairuthvik7727?view_as=subscriber" target="_blank">
   <img align="left" alt="YouTube" width="30px" style="margin-right: 10px;" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" />
+</a>
+<a href="https://ruthvik-1411.github.io" target="_blank">
+  <img align="left" alt="Website" width="30px" style="margin-right: 10px;" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" />
 </a>
 
 <br>
