@@ -1,4 +1,4 @@
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fruthvik-1411&label=Visits&labelColor=%23112240&countColor=%2364FFDA)
+[//]:![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fruthvik-1411&label=Visits&labelColor=%23112240&countColor=%2364FFDA)
 
 ### 👋 Hi, I’m Ruthvik
 I'm a hobbyist and tech enthusiast with a deep interest in Robotics, IoT, and Machine Learning. I enjoy building things from scratch — whether it's tinkering with electronics, prototyping embedded systems, or experimenting with new ideas.
