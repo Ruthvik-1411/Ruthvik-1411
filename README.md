@@ -1,9 +1,9 @@
 [//]:![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fruthvik-1411&label=Visits&labelColor=%23112240&countColor=%2364FFDA)
 
 ### 👋 Hi, I’m Ruthvik
-I'm a hobbyist and tech enthusiast with a deep interest in Robotics, IoT, and Machine Learning. I enjoy building things from scratch — whether it's tinkering with electronics, prototyping embedded systems, or experimenting with new ideas.
+I'm a hobbyist and tech enthusiast with a deep interest in Robotics, IoT, and Machine Learning. I enjoy building things from scratch - whether it's tinkering with electronics, prototyping embedded systems, or experimenting with new ideas.
 ### 🔧 What I Do
-- I work as a Machine Learning Engineer at Quantiphi, applying AI to solve real-world problems.
+- I am an AI Engineer, applying AI to solve real-world problems and customer centric products.
 - Occasionally, I develop utility apps to automate tasks or solve everyday challenges.
 - I also enjoy exploring electronics and building interesting side projects.
 ### 🎓 Background
